@@ -4,9 +4,11 @@ A quiet [Claude Code](https://claude.com/claude-code) mod that tells you when yo
 
 It does nothing until you have been idle for 50 minutes. No auto mode, no background spending you did not ask for.
 
-![herdr sidebar: the green dot is the "done" indicator the reminder sound is modeled on](docs/herdr-done-indicator.png)
+![The cache panel: cost comparison, recommendation, and three buttons](docs/panel.png)
 
-*The reminder sound is herdr's "done" chime, the one that goes with the green dot in the [herdr](https://herdr.dev) agents sidebar shown above.*
+*The panel on a 96k-token Opus 5.5 conversation: keeping warm for 4 hours costs about $0.08, compacting $0.34, doing nothing $0.75.*
+
+The reminder sound is herdr's "done" chime, the one that goes with the green dot in the [herdr](https://herdr.dev) agents sidebar.
 
 ## Why
 
