@@ -1,5 +1,12 @@
 # claude-cache-panel
 
+> **Moved.** This mod now lives in [danyuchn/claude-mods](https://github.com/danyuchn/claude-mods/tree/main/cache-panel), together with my other Claude Code mods. This repository is archived and no longer updated. Install the current version with:
+>
+> ```bash
+> claude plugin marketplace add danyuchn/claude-mods
+> claude plugin install cache-panel@dustin-mods
+> ```
+
 A quiet [Claude Code](https://claude.com/claude-code) mod that tells you when your prompt cache is about to go cold, and lets you decide in one click what to do about it: **keep it warm**, **ping it once**, or **compact the conversation**, with live cost estimates for each.
 
 It does nothing until you have been idle for 50 minutes. No auto mode, no background spending you did not ask for.
